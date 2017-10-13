@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 13, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Jacob Roberts)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Create an expense calculator program by using the getElementbyId() method.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://jgr15.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (WE learned the getElementbyId() method and saw examples of how it worked.)
+2. (Reviewed how to declare variables.)
+3. (Added in code to complete more tasks in the program.)
 
